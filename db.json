@@ -12,6 +12,6 @@
     { id: 4, text: "Bersih - bersih", completed: false },
     { id: 5, text: "Belajar", completed: false },
     { id: 6, text: "menyapu", completed: false },
-  ]
+  ],
   
 }
