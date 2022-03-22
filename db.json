@@ -12,13 +12,12 @@
     {
       "id": 1,
       "text": "cuci baju",
-      "completed": false
+      "completed": "false"
     },
     {
       "id": 2,
       "text": "belajar",
-      "completed": false
-    },
-  ],
-  
+      "completed": "false"
+    }
+  ]
 }
