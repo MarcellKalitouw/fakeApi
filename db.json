@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todo": [
+    {
+      "id": 1,
+      "text": "cuci baju",
+      "completed": "false"
+    },
+    {
+      "id": 2,
+      "text": "belajar",
+      "completed": "false"
+    }
+  ]
 }
